@@ -1,0 +1,6 @@
+{
+  "name": "MapChat - Interactive Maps & Location AI",
+  "description": "An interactive map-based chatbot using real-time Google Maps, live traffic conditions, and Search Grounding to answer location-specific questions, check traffic delays, and plan routes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
